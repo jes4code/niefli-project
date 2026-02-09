@@ -61,12 +61,12 @@
 				"method": "GET",
 				"header": [],
 				"url": {
-					"raw": "http://localhost:8081/views/visualizations/1",
+					"raw": "http://localhost:8082/views/visualizations/1",
 					"protocol": "http",
 					"host": [
 						"localhost"
 					],
-					"port": "8081",
+					"port": "8082",
 					"path": [
 						"views",
 						"visualizations",
@@ -81,12 +81,12 @@
 						"method": "GET",
 						"header": [],
 						"url": {
-							"raw": "http://localhost:8081/views/visualizations/5",
+							"raw": "http://localhost:8082/views/visualizations/5",
 							"protocol": "http",
 							"host": [
 								"localhost"
 							],
-							"port": "8081",
+							"port": "8082",
 							"path": [
 								"views",
 								"visualizations",
@@ -190,12 +190,12 @@
 				"method": "GET",
 				"header": [],
 				"url": {
-					"raw": "http://localhost:8081/views/visualization/1/continue-watching",
+					"raw": "http://localhost:8082/views/visualization/1/continue-watching",
 					"protocol": "http",
 					"host": [
 						"localhost"
 					],
-					"port": "8081",
+					"port": "8082",
 					"path": [
 						"views",
 						"visualization",
@@ -211,12 +211,12 @@
 						"method": "GET",
 						"header": [],
 						"url": {
-							"raw": "http://localhost:8081/views/visualization/5/continue-watching",
+							"raw": "http://localhost:8082/views/visualization/5/continue-watching",
 							"protocol": "http",
 							"host": [
 								"localhost"
 							],
-							"port": "8081",
+							"port": "8082",
 							"path": [
 								"views",
 								"visualization",
@@ -311,12 +311,12 @@
 				"method": "GET",
 				"header": [],
 				"url": {
-					"raw": "http://localhost:8081/views/recommendations/film/1",
+					"raw": "http://localhost:8082/views/recommendations/film/1",
 					"protocol": "http",
 					"host": [
 						"localhost"
 					],
-					"port": "8081",
+					"port": "8082",
 					"path": [
 						"views",
 						"recommendations",
@@ -332,12 +332,12 @@
 						"method": "GET",
 						"header": [],
 						"url": {
-							"raw": "http://localhost:8081/views/recommendations/film/5",
+							"raw": "http://localhost:8082/views/recommendations/film/5",
 							"protocol": "http",
 							"host": [
 								"localhost"
 							],
-							"port": "8081",
+							"port": "8082",
 							"path": [
 								"views",
 								"recommendations",
@@ -443,12 +443,12 @@
 					}
 				},
 				"url": {
-					"raw": "http://localhost:8081/views/visualization/1/film/1/subtitles",
+					"raw": "http://localhost:8082/views/visualization/1/film/1/subtitles",
 					"protocol": "http",
 					"host": [
 						"localhost"
 					],
-					"port": "8081",
+					"port": "8082",
 					"path": [
 						"views",
 						"visualization",
@@ -475,12 +475,12 @@
 							}
 						},
 						"url": {
-							"raw": "http://localhost:8081/views/visualization/5/film/1/subtitles",
+							"raw": "http://localhost:8082/views/visualization/5/film/1/subtitles",
 							"protocol": "http",
 							"host": [
 								"localhost"
 							],
-							"port": "8081",
+							"port": "8082",
 							"path": [
 								"views",
 								"visualization",
@@ -600,12 +600,12 @@
 				"method": "POST",
 				"header": [],
 				"url": {
-					"raw": "http://localhost:8081/views/visualization/1/film/1/pause",
+					"raw": "http://localhost:8082/views/visualization/1/film/1/pause",
 					"protocol": "http",
 					"host": [
 						"localhost"
 					],
-					"port": "8081",
+					"port": "8082",
 					"path": [
 						"views",
 						"visualization",
@@ -623,12 +623,12 @@
 						"method": "POST",
 						"header": [],
 						"url": {
-							"raw": "http://localhost:8081/views/visualization/5/film/1/pause",
+							"raw": "http://localhost:8082/views/visualization/5/film/1/pause",
 							"protocol": "http",
 							"host": [
 								"localhost"
 							],
-							"port": "8081",
+							"port": "8082",
 							"path": [
 								"views",
 								"visualization",
@@ -748,12 +748,12 @@
 				"method": "POST",
 				"header": [],
 				"url": {
-					"raw": "http://localhost:8081/views/visualization/1/film/1/play",
+					"raw": "http://localhost:8082/views/visualization/1/film/1/play",
 					"protocol": "http",
 					"host": [
 						"localhost"
 					],
-					"port": "8081",
+					"port": "8082",
 					"path": [
 						"views",
 						"visualization",
@@ -771,12 +771,12 @@
 						"method": "POST",
 						"header": [],
 						"url": {
-							"raw": "http://localhost:8081/views/visualization/5/film/1/play",
+							"raw": "http://localhost:8082/views/visualization/5/film/1/play",
 							"protocol": "http",
 							"host": [
 								"localhost"
 							],
-							"port": "8081",
+							"port": "8082",
 							"path": [
 								"views",
 								"visualization",
@@ -884,12 +884,12 @@
 					}
 				},
 				"url": {
-					"raw": "http://localhost:8081/views/visualization/1/film/1/language",
+					"raw": "http://localhost:8082/views/visualization/1/film/1/language",
 					"protocol": "http",
 					"host": [
 						"localhost"
 					],
-					"port": "8081",
+					"port": "8082",
 					"path": [
 						"views",
 						"visualization",
@@ -916,12 +916,12 @@
 							}
 						},
 						"url": {
-							"raw": "http://localhost:8081/views/visualization/5/film/1/language",
+							"raw": "http://localhost:8082/views/visualization/5/film/1/language",
 							"protocol": "http",
 							"host": [
 								"localhost"
 							],
-							"port": "8081",
+							"port": "8082",
 							"path": [
 								"views",
 								"visualization",
@@ -1006,12 +1006,12 @@
 				"method": "POST",
 				"header": [],
 				"url": {
-					"raw": "http://localhost:8081/views/visualization/1/film/1/end",
+					"raw": "http://localhost:8082/views/visualization/1/film/1/end",
 					"protocol": "http",
 					"host": [
 						"localhost"
 					],
-					"port": "8081",
+					"port": "8082",
 					"path": [
 						"views",
 						"visualization",
@@ -1029,12 +1029,12 @@
 						"method": "POST",
 						"header": [],
 						"url": {
-							"raw": "http://localhost:8081/views/visualization/5/film/1/end",
+							"raw": "http://localhost:8082/views/visualization/5/film/1/end",
 							"protocol": "http",
 							"host": [
 								"localhost"
 							],
-							"port": "8081",
+							"port": "8082",
 							"path": [
 								"views",
 								"visualization",
@@ -1135,12 +1135,12 @@
 				"method": "POST",
 				"header": [],
 				"url": {
-					"raw": "http://localhost:8081/views/visualization/1/film/1/download",
+					"raw": "http://localhost:8082/views/visualization/1/film/1/download",
 					"protocol": "http",
 					"host": [
 						"localhost"
 					],
-					"port": "8081",
+					"port": "8082",
 					"path": [
 						"views",
 						"visualization",
@@ -1158,12 +1158,12 @@
 						"method": "POST",
 						"header": [],
 						"url": {
-							"raw": "http://localhost:8081/views/visualization/5/film/1/download",
+							"raw": "http://localhost:8082/views/visualization/5/film/1/download",
 							"protocol": "http",
 							"host": [
 								"localhost"
 							],
-							"port": "8081",
+							"port": "8082",
 							"path": [
 								"views",
 								"visualization",
@@ -1269,12 +1269,12 @@
 				"method": "DELETE",
 				"header": [],
 				"url": {
-					"raw": "http://localhost:8081/views/visualizations/1",
+					"raw": "http://localhost:8082/views/visualizations/1",
 					"protocol": "http",
 					"host": [
 						"localhost"
 					],
-					"port": "8081",
+					"port": "8082",
 					"path": [
 						"views",
 						"visualizations",
@@ -1289,12 +1289,12 @@
 						"method": "DELETE",
 						"header": [],
 						"url": {
-							"raw": "http://localhost:8081/views/visualizations/5",
+							"raw": "http://localhost:8082/views/visualizations/5",
 							"protocol": "http",
 							"host": [
 								"localhost"
 							],
-							"port": "8081",
+							"port": "8082",
 							"path": [
 								"views",
 								"visualizations",
